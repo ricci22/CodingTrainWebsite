@@ -141,3 +141,5 @@ defaults:
       layout:           "video"
       video_type:       "session"
       can_contribute:   false
+
+theme: jekyll-theme-cayman
